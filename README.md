@@ -1,8 +1,8 @@
-Hello 👋, I'm Manan Sapaloke
+## Hello 👋, I'm Manan Sapaloke
 
-🎓 4th Year B.Tech Undergraduate at **VIT Chennai**
-📊 Aspiring Data Analyst | Python & SQL Enthusiast
-🚀 Passionate about exploring complex datasets to uncover hidden patterns and solve real-world challenges.
+**🎓 4th Year B.Tech Undergraduate at VIT Chennai**
+**📊 Aspiring Data Analyst | Python & SQL Enthusiast**
+**🚀 Passionate about exploring complex datasets to uncover hidden patterns and solve real-world challenges.**
 
 ---
 
